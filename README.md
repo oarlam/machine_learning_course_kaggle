@@ -1,10 +1,10 @@
-# Intro to Machine Learning
+# Звіт про проходження навчального курсу
 
 ---
 
 **Посилання:** https://www.kaggle.com/learn/intro-to-machine-learning/course
 **Курс:** Intro to Machine Learning
-
+<img width="4800" height="2960" alt="Olesia Arlamovska - Intro to Machine Learning" src="https://github.com/user-attachments/assets/056f373b-e78c-488c-9d06-8279e411cc10" />
 
 ## 1. Чому був обраний саме цей курс?
 
@@ -36,6 +36,7 @@
 
 **Посилання:** https://www.kaggle.com/learn/intermediate-machine-learning
 **Курс:** Intermediate Machine Learning
+<img width="4800" height="2960" alt="Olesia Arlamovska - Intermediate Machine Learning" src="https://github.com/user-attachments/assets/0ec4bbaa-28cd-43cd-b254-9e32df29284e" />
 
 ---
 
