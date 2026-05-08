@@ -1,3 +1,4 @@
+
 # Intro to Machine Learning
 
 **Посилання:** https://www.kaggle.com/learn/intro-to-machine-learning/course
@@ -62,7 +63,7 @@
 # Machine Learning Explainability
 
 **Посилання:** https://www.kaggle.com/learn/machine-learning-explainability
-
+<img width="4800" height="2960" alt="Olesia Arlamovska - Machine Learning Explainability" src="https://github.com/user-attachments/assets/49d5aa9e-fb24-485d-b2c2-4eec3ac88e8d" />
 
 ## 1. Чому був обраний саме цей курс?
 
